@@ -17,11 +17,9 @@ public class Ejemplo011 {
     public static void main(String[] args) {
         
         for (int i = 10; i >= 0; i--) {
-<<<<<<< HEAD
-            System.out.printf("wazaaaxdxd%d\n", i);
-=======
+
             System.out.printf("wazaaa:Vgit %d\n", i);
->>>>>>> beeb1b22538a3a13bad9f513f9015a63c4120e57
+
         }
         
         
