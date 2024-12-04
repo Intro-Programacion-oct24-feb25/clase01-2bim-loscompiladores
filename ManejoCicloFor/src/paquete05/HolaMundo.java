@@ -11,8 +11,8 @@ package paquete05;
 public class HolaMundo {
     public static void main(String[] args) {
         int elpepe;
-        for(elpepe=2; elpepe<5; 1);{
-            xd
+        for(elpepe=2; elpepe<5; elpepe=elpepe+1);{
+           System.out.println("hola");
         }
         
     }
