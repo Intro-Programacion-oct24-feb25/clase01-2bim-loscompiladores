@@ -9,5 +9,12 @@ package paquete05;
  * @author utpl
  */
 public class HolaMundo {
+    public static void main(String[] args) {
+        int elpepe;
+        for(elpepe=2; elpepe<5; 1);{
+            xd
+        }
+        
+    }
     
 }
